@@ -1,0 +1,91 @@
+
+
+.entire{
+    background-color: black;
+    
+    color: white;
+}
+.navbar{
+    color: white;
+}
+h1{
+    font-size: 15px;
+}
+.image{
+    height: 500px;
+    width: 475px;
+    border-radius: 260px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-me{
+    padding: 50px;
+    margin-top: 20px;
+    
+}
+.about-body{
+    text-align: center;
+    padding: 100px;
+}
+.reach-out{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 160px;
+    padding-right: 70px;
+    padding-top: 10px;
+}
+.skills{
+    margin-top: 80px;
+    padding: 20px;
+    text-align: center;
+}
+.skill-image{
+    border: 2px;
+    border-width: 2px ;
+    border-color: white;
+    margin-bottom: 50px;
+}
+.skill-images{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+img{
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+.projects{
+    margin-top: 80px;
+    padding: 20px;
+    text-align: center;
+}
+
+.proj-head{
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: darkgoldenrod;
+}
+.proj-para{
+    text-align: center;
+    color: rgb(92, 135, 213);
+    font-weight: 500;
+}
+.qr-image{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.project-card{
+    height: 250px;
+    border-radius: 20px;
+    
+}
+
+.resume{
+    margin-top: 80px;
+    padding: 20px;
+    text-align: center;
+}
